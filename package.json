@@ -21,6 +21,8 @@
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.23.0",
+    "aws-cdk-lib": "^2.189.1",
+    "constructs": "^10.4.2",
     "@aws-amplify/backend-cli": "^1.8.3",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
